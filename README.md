@@ -85,10 +85,12 @@ While I enjoy crafting intuitive interfaces, my true passion lies in backend log
 
 ### 🚀 Featured Projects
 
+ **[Kitchen Display System](https://github.com/yash1616-accept/url_shortener.git)**MiniLink Enterprise URL Shortener — Multi-Tenant Link Management & Marketing Intelligence Dashboard Next.js 15 App Router backend secured by Clerk B2B workspaces; Upstash Redis edge-caching for sub-10ms global redirects; real-time asynchronous webhooks and native GA4 Measurement Protocol integration backed by a scalable MongoDB analytics dashboard.[Live Demo](https://brua.vercel.app/)
+
 **[Kitchen Display System](https://github.com/yash1616-accept/chai-kdc.git)** — Real-Time Order Queue & Business Analytics Dashboard
 Node.js/Express backend on Meta Graph API (WhatsApp Webhooks); Redis + BullMQ job queue load-tested to 10,000+ concurrent requests (200+ RPS); real-time kitchen display in Next.js/React/Socket.io backed by a MongoDB aggregation-driven KPI dashboard.
 
-**[Crofo](https://github.com/yash1616-accept/crowdfunding.git)** — AI-Powered Dual-Capital Crowdfunding Platform · [Live Demo](https://crowdfunding-gh5c.vercel.app/)
+**[Crofo](https://github.com/yash1616-accept/crowdfunding.git)** — AI-Powered Dual-Capital Crowdfunding Platform  ·[Live Demo](https://crowdfunding-gh5c.vercel.app/)
 Donation + equity-style crowdfunding with a Gemini API-driven feasibility scoring engine, Razorpay payments, and a reusable component library across campaign, dashboard, and investor views.
 
 **[TAX-I](https://github.com/yash1616-accept/itr-assistant.git)** — Intelligent Tax Optimization & Advisory Platform · [Live Demo](https://itr-assistant-1.onrender.com/)
